@@ -8,3 +8,6 @@ class EstadisticasTest(TestCase):
 
     def test_estadistica1(self):
         self.assertEqual(Estadisticas().estadistica("5"),1,"Un numero")
+
+    def  test_estadistica2(self):
+        self.assertEqual(Estadisticas().estadistica("1,2"),2,"Dos numeros")
