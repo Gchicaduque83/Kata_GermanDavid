@@ -13,4 +13,4 @@ class EstadisticasTest(TestCase):
         self.assertEqual(Estadisticas().estadistica("1,2"),2,"Dos numeros")
 
     def  test_estadisticaN(self):
-        self.assertEqual(Estadisticas().estadistica("1,2,3"),3,"N numeros")
+        self.assertEqual(Estadisticas().estadistica("1,2,3,4"),4,"N numeros")
