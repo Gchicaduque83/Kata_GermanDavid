@@ -1,5 +1,5 @@
 __author__ = 'German - David'
 
 class Estadisticas:
-    def estadistica(self):
-        pass
+    def estadistica(self, cadena):
+        return 0

@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-import Estadisticas
+from Estadisticas import Estadisticas
 
 class EstadisticasTest(TestCase):
     def test_estadistica(self):
