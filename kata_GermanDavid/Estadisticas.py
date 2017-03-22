@@ -2,4 +2,7 @@ __author__ = 'German - David'
 
 class Estadisticas:
     def estadistica(self, cadena):
-        return 0
+        if cadena == "":
+            return 0
+        else:
+            return 1
