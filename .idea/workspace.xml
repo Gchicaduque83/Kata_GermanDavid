@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Kata_GermanDavid$Unittests_in_EstadisticasTest.coverage" NAME="Unittests in EstadisticasTest Coverage Results" MODIFIED="1490242616022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kata_GermanDavid" />
+    <SUITE FILE_PATH="coverage/Kata_GermanDavid$Unittests_in_EstadisticasTest.coverage" NAME="Unittests in EstadisticasTest Coverage Results" MODIFIED="1490244556962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kata_GermanDavid" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -28,8 +28,8 @@
       <file leaf-file-name="Estadisticas.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kata_GermanDavid/Estadisticas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2982456">
-              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+            <state vertical-scroll-proportion="0.37280703">
+              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/kata_GermanDavid/EstadisticasTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
+              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -402,27 +402,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 00h 17m 42s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 00h 18m 28s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 00h 32m 00s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 00h 32m 13s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 00h 50m 56s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 22h 32m 33s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 22h 45m 31s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 22h 47m 00s.xml">
       <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
     </history-entry>
@@ -430,6 +409,27 @@
       <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 16m 56s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 23m 31s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 25m 00s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 32m 56s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 40m 14s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 47m 56s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 48m 45s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 49m 17s.xml">
       <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
     </history-entry>
   </component>
@@ -493,7 +493,7 @@
     <entry file="file://$PROJECT_DIR$/kata_GermanDavid/EstadisticasTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
+          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -502,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kata_GermanDavid/Estadisticas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2982456">
-          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        <state vertical-scroll-proportion="0.37280703">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
           <folding />
         </state>
       </provider>
