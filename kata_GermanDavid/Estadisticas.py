@@ -7,7 +7,8 @@ class Estadisticas:
             return [0,0,0]
         else:
             minimo = int(min(cadena.split(",")))
+            maximo = int(cadena.split(",")[0])
         elementos = len(numeros_vector)
-        return [elementos,minimo]
+        return [elementos,minimo, maximo]
 
 
