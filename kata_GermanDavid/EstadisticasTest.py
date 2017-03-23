@@ -47,3 +47,7 @@ class EstadisticasTest(TestCase):
     def  test_estadistica_maximoN(self):
         cadena= "10,2,3,4,5,6,7,8,9"
         self.assertEqual(Estadisticas().estadistica(cadena)[2], int(max(cadena.split(","))),"N numeros")
+
+    def test_estadistica_promedio(self):
+        self.assertEqual(Estadisticas().estadistica("")[3], 0,"Cadena vacia")
+
