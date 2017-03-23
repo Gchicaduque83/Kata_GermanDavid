@@ -39,3 +39,7 @@ class EstadisticasTest(TestCase):
     def test_estadistica_maximo1(self):
         cadena= "1"
         self.assertEqual(Estadisticas().estadistica(cadena)[2], int(cadena),"Un numero")
+
+    def test_estadistica_maximo2(self):
+        cadena= "1,2"
+        self.assertEqual(Estadisticas().estadistica(cadena)[2], int(max(cadena.split(","))),"Dos numeros")
