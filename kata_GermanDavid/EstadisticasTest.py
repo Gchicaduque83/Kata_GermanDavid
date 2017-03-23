@@ -24,3 +24,8 @@ class EstadisticasTest(TestCase):
     def test_estadistica_minimo1(self):
         cadena= "1"
         self.assertEqual(Estadisticas().estadistica(cadena)[1], int(cadena),"Un numero")
+
+    def test_estadistica_minimo2(self):
+        cadena= "2,1"
+        self.assertEqual(Estadisticas().estadistica(cadena)[1], int(min(cadena.split(","))),"Dos numeros")
+

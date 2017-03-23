@@ -6,7 +6,7 @@ class Estadisticas:
             return [0,0]
         else:
             elementos = len(cadena.split(","))
-            minimo = int(min(cadena.split(",")))
+            minimo = int((cadena.split(",")[0]))
             return [elementos,minimo]
 
 
