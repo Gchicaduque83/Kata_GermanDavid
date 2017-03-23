@@ -51,3 +51,6 @@ class EstadisticasTest(TestCase):
     def test_estadistica_promedio(self):
         self.assertEqual(Estadisticas().estadistica("")[3], 0,"Cadena vacia")
 
+    def test_estadistica_promedio1(self):
+        cadena= "1"
+        self.assertEqual(Estadisticas().estadistica(cadena)[3], int(cadena),"Un numero")
