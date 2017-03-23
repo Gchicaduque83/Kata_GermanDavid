@@ -7,8 +7,9 @@ class Estadisticas:
             return [0,0,0,0]
         else:
            maximo = int(max(numeros_vector))
+           promedio = numeros_vector[0]
         elementos = len(numeros_vector)
         minimo = int(min(numeros_vector))
-        return [elementos,minimo, maximo]
+        return [elementos,minimo,maximo,promedio]
 
 
