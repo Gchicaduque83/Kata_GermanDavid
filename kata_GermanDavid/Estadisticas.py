@@ -8,10 +8,7 @@ class Estadisticas:
         elif len(numeros_vector)==1:
             minimo = int(numeros_vector[0])
         else:
-            if int(numeros_vector[0])<int(numeros_vector[1]):
-                minimo = int(numeros_vector[0])
-            else:
-                minimo = int(numeros_vector[1])
+            minimo = int(min(cadena.split(",")))
         elementos = len(numeros_vector)
         return [elementos,minimo]
 
