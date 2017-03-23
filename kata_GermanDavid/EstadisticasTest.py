@@ -35,3 +35,7 @@ class EstadisticasTest(TestCase):
 
     def test_estadistica_maximo(self):
         self.assertEqual(Estadisticas().estadistica("")[2], 0,"Cadena vacia")
+
+    def test_estadistica_maximo1(self):
+        cadena= "1"
+        self.assertEqual(Estadisticas().estadistica(cadena)[2], int(cadena),"Un numero")
