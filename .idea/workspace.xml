@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Kata_GermanDavid$Unittests_in_EstadisticasTest.coverage" NAME="Unittests in EstadisticasTest Coverage Results" MODIFIED="1490240835955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kata_GermanDavid" />
+    <SUITE FILE_PATH="coverage/Kata_GermanDavid$Unittests_in_EstadisticasTest.coverage" NAME="Unittests in EstadisticasTest Coverage Results" MODIFIED="1490242616022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kata_GermanDavid" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -25,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Estadisticas.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Estadisticas.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kata_GermanDavid/Estadisticas.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.2982456">
+              <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EstadisticasTest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EstadisticasTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kata_GermanDavid/EstadisticasTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2236842">
-              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -62,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/kata_GermanDavid/Estadisticas.py" />
         <option value="$PROJECT_DIR$/kata_GermanDavid/EstadisticasTest.py" />
+        <option value="$PROJECT_DIR$/kata_GermanDavid/Estadisticas.py" />
       </list>
     </option>
   </component>
@@ -402,9 +402,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 00h 13m 40s.xml">
-      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 00h 17m 42s.xml">
       <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
     </history-entry>
@@ -430,6 +427,9 @@
       <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 22h 47m 16s.xml">
+      <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_EstadisticasTest - 2017.03.22 at 23h 16m 56s.xml">
       <configuration name="Unittests in EstadisticasTest" configurationId="tests" />
     </history-entry>
   </component>
@@ -490,21 +490,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kata_GermanDavid/Estadisticas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kata_GermanDavid/EstadisticasTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2236842">
-          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="99" selection-start-line="18" selection-start-column="99" selection-end-line="18" selection-end-column="99" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kata_GermanDavid/Estadisticas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2982456">
+          <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>

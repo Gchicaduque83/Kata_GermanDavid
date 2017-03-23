@@ -18,7 +18,6 @@ class EstadisticasTest(TestCase):
         cadena= "1,2,3,4,5,6,7,8,9"
         self.assertEqual(Estadisticas().estadistica(cadena)[0], len(cadena.split(",")),"N numeros")
 
-
     def test_estadistica_minimo(self):
         self.assertEqual(Estadisticas().estadistica("")[1], 0,"Cadena vacia")
 
